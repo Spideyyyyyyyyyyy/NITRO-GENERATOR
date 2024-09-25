@@ -1,0 +1,2 @@
+do git clone url then cd into it 
+pip install requests then run ITACHISNITROGEN.py the script will start and start generating codes
